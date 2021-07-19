@@ -1,6 +1,4 @@
 # Sistema-de-cadastro-em-Java-Web-EE
-🎩 Projeto Full-Stack utilizando java para web. Desenvolvimento de projetos utilizando Maven, JSP , SERVLET, JDBC com SQL e JAVA
-
 Este projeto foi criado visando um sistema de cadastro pessoal, comercial ou afins.
 
 Projeto é um projeto teste de integração com banco de dados. Sua função é um cadastro e visualização dos cadastrados via DB. Projeto Finalizado, visualização dos cadastrados.
