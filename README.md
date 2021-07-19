@@ -7,16 +7,16 @@ Projeto é um projeto teste de integração com banco de dados. Sua função é 
 
 **Projeto java web com integração de framawork.**
 
-#Projeto Java Web Full-Stack com java usando JSF - Servlet - Ajax - Jquerry - Web Service - PgAdmin III
+# Projeto Java Web Full-Stack com java usando JSF - Servlet - Ajax - Jquerry - Web Service - PgAdmin III
 
   - Java
   - Servlet / JSP
   - HTML / CSS / JavaScript
 
   - [x] Cadastro e Controle de Acesso 
-	- [x] Cadastro de Usuários
+  - [x] Cadastro de Usuários
   - [x] Cadastro de Produtros
-	- [x] Cadastro de Contatos
+  - [x] Cadastro de Contatos
 
 Para a implantação deste projeto faz necessário importar o arquivo WAR.file para a sua IDE 
 
