@@ -10,7 +10,7 @@ Este projeto foi criado visando um sistema de cadastro pessoal, comercial ou afi
   - [x] Cadastro de Produtros
   - [x] Cadastro de Contatos
 
-# Projeto java web com integração de framawork.
+# Projeto java web com integração de framework.
 
   - Java
   - Servlet / JSP
