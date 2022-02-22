@@ -24,4 +24,4 @@ JDK Versão 1.8
 
 Tomcat v7.0
 
-Banco de Dados: arquivo sql já implantado dentro do WAR.file, siga as instrunções e clone o banco
+Banco de Dados: arquivo sql já implantado dentro do WAR.file, siga as instruções e clone o banco
