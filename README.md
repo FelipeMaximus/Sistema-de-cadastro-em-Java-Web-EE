@@ -24,4 +24,4 @@ JDK Versão 1.8
 
 Tomcat v7.0
 
-Banco de Dados: arquivo sql já implantado dentro do WAR.file, siga as instruções, crie o DATABASE e faça o backup do banco, arquivo econtrado já aqui no repositório como backup.rar, tem que descompactalo e usar o arquivo.
+Banco de Dados: Crie o DATABASE e faça o backup do banco, arquivo econtrado já aqui no repositório como backup.rar, tem que descompactalo e mudar a extensão para .sql e fazer RESTORE do arquivo.
